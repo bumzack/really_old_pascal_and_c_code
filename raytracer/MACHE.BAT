@@ -1,0 +1,12 @@
+tpc DEFS
+tpc VID
+tpc UGRAPH
+tpc USAVE
+tpc CALC
+tpc LOAD
+tpc MATH
+tpc MAUS
+tpc SCHALTER
+tpc TEXTURE
+tpc UCAD
+tpc RAY
